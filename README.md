@@ -1,11 +1,14 @@
 <div dir="auto">
 <h1>پروژهای آموزشی فرانت اند </h1>
-<h2>سطح مقدماتی<h2>
+<h2>سطح مقدماتی</h2>
 
 <p>
-<a href="https://github.com/mehdigudy/hashtagComponent"> کامپوننت هشتگ  سورس کد </a>
+کامپوننت هشتگ  سورس کد 
+<a href="https://github.com/mehdigudy/hashtagComponent"> </a>
 <br>
-<a href="https://mehdigudy.github.io/hashtagComponent"/>نسخه لایو </a>
+نسخه لایو کامپوننت
+<br>
+<a href="https://mehdigudy.github.io/hashtagComponent"/></a>
 </p>
 
 <br>
