@@ -10,10 +10,13 @@
 
 <br>
 <h2>سطح متوسط</h2>
+
+<p>
 جمیل کلون با استفاده از html , css 
 <br>
 <a href="https://github.com/mehdigudy/gmailClone"> جمیل کلون</a>
 <br>
+</p>
 <h2>سطح پیشرفته</h2>
 <br>
 
