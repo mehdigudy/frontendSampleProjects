@@ -4,11 +4,11 @@
 
 <p>
 کامپوننت هشتگ  سورس کد 
-<a href="https://github.com/mehdigudy/hashtagComponent"> </a>
+<a href="https://github.com/mehdigudy/hashtagComponent"> اینجا رو کلیک کنید </a>
 <br>
 نسخه لایو کامپوننت
 <br>
-<a href="https://mehdigudy.github.io/hashtagComponent"/></a>
+<a href="https://mehdigudy.github.io/hashtagComponent"/> اینجا رو کلیک کنید </a>
 </p>
 
 <br>
@@ -17,7 +17,7 @@
 <p>
 جمیل کلون با استفاده از html , css 
 <br>
-<a href="https://github.com/mehdigudy/gmailClone"> جمیل کلون</a>
+<a href="https://github.com/mehdigudy/gmailClone"> اینجا رو کلیک کنید </a>
 <br>
 </p>
 <h2>سطح پیشرفته</h2>
