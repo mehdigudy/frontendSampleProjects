@@ -11,6 +11,28 @@
 <br>
 <a href="https://mehdigudy.github.io/hashtagComponent"/> اینجا رو کلیک کنید </a>
 </p>
+<br>
+
+<p>
+کامپوننت ریچ تکست سورس کد 
+<br>
+<a href="https://github.com/mehdigudy/richTextComponent"> اینجا رو کلیک کنید </a>
+<br>
+نسخه لایو کامپوننت
+<br>
+<a href="https://mehdigudy.github.io/richTextComponent"/> اینجا رو کلیک کنید </a>
+</p>
+<br>
+
+<p>
+ماتریکس در مرورگر بدون استفاده از هیچ ابزار خاصی 
+<br>
+<a href="https://github.com/mehdigudy/matrix"> اینجا رو کلیک کنید </a>
+<br>
+نسخه لایو
+<br>
+<a href="https://mehdigudy.github.io/matrix"/> اینجا رو کلیک کنید </a>
+</p>
 
 <br>
 <h2>سطح متوسط</h2>
