@@ -46,7 +46,7 @@
 </p>
 <br>
 
-<p>
+<p dir="rtl">
 landing page 
 <br>
 <a href="https://github.com/mehdigudy/landingPage"> اینجا رو کلیک کنید </a>
