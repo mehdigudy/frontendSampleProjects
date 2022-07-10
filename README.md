@@ -57,15 +57,8 @@ landing page
 </p>
 <br>
 
-<h2>سطح متوسط</h2>
 
-<p>
-جمیل کلون با استفاده از html , css 
-<br>
-<a href="https://github.com/mehdigudy/gmailClone"> اینجا رو کلیک کنید </a>
-<br>
-</p>
-<h2>سطح پیشرفته</h2>
+
 <br>
 
 </div>
